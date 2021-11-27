@@ -1,4 +1,4 @@
-#Estimate PI
+#Estimate Pi
 
 
 import numpy as np
