@@ -1,5 +1,5 @@
 #Estimate Pi
-
+#Parallelization
 
 import numpy as np
 import sys
